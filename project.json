@@ -1,0 +1,24 @@
+{
+  "project_type": "javascript",
+  "debugMode": 1,
+  "showFPS": false,
+  "frameRate": 60,
+  "noCache": false,
+  "id": "gameCanvas",
+  "renderMode": 0,
+  "engineDir": "frameworks/cocos2d-html5",
+  "modules": [
+    "cocos2d",
+    "ccui"
+  ],
+  "jsList": [
+    "src/resource.js",
+    "src/scene/main/MainScene.js",
+    "src/scene/main/layer/Main.js",
+    "src/scene/main/layer/BackgroundLayer.js",
+    "src/scene/main/layer/MainLayer.js",
+    "src/scene/sprite/TileSprite.js",
+    "src/scene/class/Grid.js",
+    "src/scene/class/Tile.js"
+  ]
+}
